@@ -1,0 +1,23 @@
+{
+  "name": "fader",
+  "version": "1.0.0",
+  "description": "Node module for compressing audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorpage/fader.git"
+  },
+  "keywords": [
+    "audio",
+    "compression"
+  ],
+  "author": "Taylor Page",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorpage/fader/issues"
+  },
+  "homepage": "https://github.com/taylorpage/fader#readme"
+}
